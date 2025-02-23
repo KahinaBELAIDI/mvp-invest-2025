@@ -3,8 +3,8 @@
 This is a Nest API for managing investment projects, including purchasing shares, generating returns, and tracking payments for investors.
 
 # Note
-Development time: almost 8 hours 
-Task status: not completed 
+- Development time: almost 8 hours 
+- Task status: not completed 
 
 ## Project Structure
 
