@@ -29,3 +29,7 @@ npm run migration:run
 ### 4. Start project:
 
 npm run start:dev
+
+## Run Swagger Docs
+
+http://localhost:3003/api-doc
